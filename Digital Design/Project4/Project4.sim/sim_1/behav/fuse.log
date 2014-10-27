@@ -1,0 +1,20 @@
+Running: C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle pa -incremental -L work -L secureip -o my_mod4cnt_testbench.exe --prj C:/Users/lamphejw/Desktop/Project4/Project4.sim/sim_1/behav/my_mod4cnt_testbench.prj -top work.my_mod4cnt_testbench 
+ISim P.68d (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Xilinx/14.6/ISE_DS/PlanAhead/data/verilog/src/glbl.v" into library work
+Parsing VHDL file "C:/Users/lamphejw/Desktop/Project4/Project4.srcs/sources_1/new/mod4cnt.vhd" into library work
+Parsing VHDL file "C:/Users/lamphejw/Desktop/Project4/Project4.srcs/sim_1/imports/Project4/mymod4cnt_testbench.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavior of entity mod4cnt [mod4cnt_default]
+Compiling architecture behavior of entity my_mod4cnt_testbench
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 VHDL Units
+Built simulation executable my_mod4cnt_testbench.exe
+Fuse Memory Usage: 29588 KB
+Fuse CPU Usage: 389 ms

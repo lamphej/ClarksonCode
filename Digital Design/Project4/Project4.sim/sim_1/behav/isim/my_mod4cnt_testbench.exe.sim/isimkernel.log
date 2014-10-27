@@ -1,0 +1,28 @@
+Command line:
+   my_mod4cnt_testbench.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55705
+
+Wed Apr 23 22:52:32 2014
+
+
+ Elaboration Time: 0.093601 sec
+
+ Current Memory Usage: 1318.9 Meg
+
+ Total Signals          : 14
+ Total Nets             : 7
+ Total Signal Drivers   : 7
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 367
+
+ Total Simulation Time: 0.109201 sec
+
+ Current Memory Usage: 689.717 Meg
+
+Wed Apr 23 22:58:21 2014
+

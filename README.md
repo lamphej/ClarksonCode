@@ -10,3 +10,7 @@ Assignments relating to various sorting and searching algorithms
 Programming Languages
 ---------------------
 Various Scheme/Racket and Prolog code
+
+Digital Design
+--------------
+VHDL Type Stuff

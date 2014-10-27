@@ -1,0 +1,9 @@
+set -loop_iteration_limit 1000
+run
+-ifn my_dff.prj
+-top my_dff
+-p xc6slx16csg324-3
+-ofn my_dff.ngc
+-opt_mode speed
+-opt_level 1
+-netlist_hierarchy rebuilt

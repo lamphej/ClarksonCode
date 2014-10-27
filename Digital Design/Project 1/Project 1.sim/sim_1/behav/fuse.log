@@ -1,0 +1,22 @@
+Running: C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle pa -incremental -L work -L secureip -o and_or_top_Testbench.exe --prj C:/Users/lamphejw/Desktop/Project 1/Project 1.sim/sim_1/behav/and_or_top_Testbench.prj -top work.and_or_top_Testbench 
+ISim P.68d (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Xilinx/14.6/ISE_DS/PlanAhead/data/verilog/src/glbl.v" into library work
+Parsing VHDL file "C:/Users/lamphejw/Desktop/Project 1/Project 1.srcs/sources_1/imports/Project 1/and_or_top.vhd" into library work
+Parsing VHDL file "C:/Users/lamphejw/Desktop/Project 1/Project 1.srcs/sim_1/imports/Project 1/and_or_top_Testbench.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity and_or_top [and_or_top_default]
+Compiling architecture behavior of entity and_or_top_testbench
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable and_or_top_Testbench.exe
+Fuse Memory Usage: 33960 KB
+Fuse CPU Usage: 468 ms

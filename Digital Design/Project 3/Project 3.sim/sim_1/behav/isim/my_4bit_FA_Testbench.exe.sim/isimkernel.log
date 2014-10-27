@@ -1,0 +1,28 @@
+Command line:
+   my_4bit_FA_Testbench.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54238
+
+Wed Apr 09 21:52:55 2014
+
+
+ Elaboration Time: 0.124801 sec
+
+ Current Memory Usage: 1315 Meg
+
+ Total Signals          : 31
+ Total Nets             : 18
+ Total Signal Drivers   : 11
+ Total Blocks           : 9
+ Total Primitive Blocks : 7
+ Total Processes        : 9
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 396
+
+ Total Simulation Time: 0.124801 sec
+
+ Current Memory Usage: 685.818 Meg
+
+Wed Apr 09 22:20:42 2014
+

@@ -1,0 +1,24 @@
+Running: C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle pa -incremental -L work -L secureip -o my_4bit_FA_Testbench.exe --prj C:/Users/lamphejw/Desktop/Project 3/Project 3.sim/sim_1/behav/my_4bit_FA_Testbench.prj -top work.my_4bit_FA_Testbench 
+ISim P.68d (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Xilinx/14.6/ISE_DS/PlanAhead/data/verilog/src/glbl.v" into library work
+Parsing VHDL file "C:/Users/lamphejw/Desktop/Project 3/Project 3.srcs/sources_1/new/FullAdder.vhd" into library work
+Parsing VHDL file "C:/Users/lamphejw/Desktop/Project 3/Project 3.srcs/sources_1/new/my_4bit_FA.vhd" into library work
+Parsing VHDL file "C:/Users/lamphejw/Desktop/Project 3/Project 3.srcs/sim_1/imports/Downloads/my_4bit_FA_Testbench.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity FullAdder [fulladder_default]
+Compiling architecture fourbitadderfunction of entity FourBitAdder [fourbitadder_default]
+Compiling architecture behavior of entity my_4bit_fa_testbench
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 VHDL Units
+Built simulation executable my_4bit_FA_Testbench.exe
+Fuse Memory Usage: 33712 KB
+Fuse CPU Usage: 420 ms

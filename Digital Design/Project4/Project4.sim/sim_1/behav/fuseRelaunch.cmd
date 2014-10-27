@@ -1,0 +1,1 @@
+-intstyle "pa" -incremental -L "work" -L "secureip" -o "my_mod4cnt_testbench.exe" --prj "C:/Users/lamphejw/Desktop/Project4/Project4.sim/sim_1/behav/my_mod4cnt_testbench.prj" -top "work.my_mod4cnt_testbench" 

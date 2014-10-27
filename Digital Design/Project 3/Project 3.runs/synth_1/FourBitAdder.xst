@@ -1,0 +1,9 @@
+set -loop_iteration_limit 1000
+run
+-ifn FourBitAdder.prj
+-top FourBitAdder
+-p xc6slx16csg324-3
+-ofn FourBitAdder.ngc
+-opt_mode speed
+-opt_level 1
+-netlist_hierarchy rebuilt

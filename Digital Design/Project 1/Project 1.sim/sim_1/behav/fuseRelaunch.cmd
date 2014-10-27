@@ -1,0 +1,1 @@
+-intstyle "pa" -incremental -L "work" -L "secureip" -o "and_or_top_Testbench.exe" --prj "C:/Users/lamphejw/Desktop/Project 1/Project 1.sim/sim_1/behav/and_or_top_Testbench.prj" -top "work.and_or_top_Testbench" 
