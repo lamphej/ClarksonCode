@@ -1,0 +1,12 @@
+# ClarksonCode
+
+This is a repository I made to display some of the various code I've written during my time at Clarkson University.
+
+The Contents are basically as follows:
+Algorithms
+----------
+Assignments relating to various sorting and searching algorithms
+
+Programming Languages
+---------------------
+Various Scheme/Racket and Prolog code
