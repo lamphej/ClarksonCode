@@ -1,5 +1,5 @@
 # EE 466 Computer Architecture Fall 2014
-# Instructor: Dr. Chen Liue
+# Instructor: Dr. Chen Liu
 # Project 1 Fibonacci Numbers
 # Written by James Lamphere (0274872)
 # Software Engineering Major

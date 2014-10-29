@@ -7,6 +7,10 @@ Algorithms
 ----------
 Assignments relating to various sorting and searching algorithms
 
+Computer Architecture
+---------------------
+MIPS assembly/vhdl/stuff like that
+
 Programming Languages
 ---------------------
 Various Scheme/Racket and Prolog code
