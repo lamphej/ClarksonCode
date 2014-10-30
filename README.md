@@ -3,6 +3,10 @@
 This is a repository I made to display some of the various code I've written during my time at Clarkson University.
 
 The Contents are basically as follows:
+Cryptography
+------------
+Stuff from my Cryptography class
+
 Algorithms
 ----------
 Assignments relating to various sorting and searching algorithms
