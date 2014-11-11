@@ -1,0 +1,16 @@
+This is assignment 2 of our cryptography course for Fall 2014.
+In this assignment, write your own implementation of the RSA 
+cryptographic system in any programming language of your choice.
+But allow the user the freedom to choose their own bit-length for the
+prime numbers. Your system should also encrypt only single ASCII characters 
+from text files without salting.
+Your program should take four input parameters: a plaintext filename, 
+a ciphertext filename, and a filename for the decrypted text, and 
+a bit-length parameter. The ciphertext should be an ASCII file that 
+is a sequence of numbers separated by newlines. 
+In the submission, please send this text file back by email as a text 
+file encrypted using your own RSA public keys. In the email, specify 
+the RSA modulus and the secret exponent required to decrypt the file 
+so your file can be decrypted properly. 
+As a bonus, implement one of the faster known algorithms for factoring
+integers. You might have to research a bit of literature here.
