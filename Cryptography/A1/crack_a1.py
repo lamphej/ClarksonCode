@@ -4,7 +4,7 @@ import json
 
 output_joiner = '    |    '
 
-cipher_file = "cipher_correct"
+cipher_file = "substitution_correct"
 
 CURRENT_CIPHER = json.loads(open("ciphers\\%s" % cipher_file, "r").read())
 CURRENT_CIPHER['\n'] = '\n'
