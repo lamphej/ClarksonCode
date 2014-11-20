@@ -1,3 +1,7 @@
+# Cracked 11/20
+
+Cracked this after sleeping on my scalar_multiply algorithm over night
+
 p = 206847873818812937167517372204272345747 
 
 A = 283939956464285692379899333706992027275 
